@@ -4,8 +4,7 @@
 
 1. [About](#about)
 2. [Objective](#objective)
-3. [Getting started](#start)
-4. [Acknowledgements](#acknowledgements)
+3. [Acknowledgements](#acknowledgements)
 
 
 ## About <a name="about"></a>
