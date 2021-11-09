@@ -5,7 +5,7 @@
 1. [About](#about)
 2. [Objective](#objective)
 3. [Acknowledgements](#acknowledgements)
-4. Visualisation (#visualisation)
+4. [Visualisation](#Visualisation)
 
 
 ## About <a name="about"></a>
