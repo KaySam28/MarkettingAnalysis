@@ -5,6 +5,7 @@
 1. [About](#about)
 2. [Objective](#objective)
 3. [Acknowledgements](#acknowledgements)
+4. Visualisation (#visualisation)
 
 
 ## About <a name="about"></a>
@@ -31,3 +32,11 @@ The purpose of this analysis is to explore a dataset of Airbnb in Berlin with pa
 
 My thanks go to Maven Analytics for sharing the data. The corresponding link to the data can be found below:
 https://www.mavenanalytics.io/data-playground?page=2&pageSize=5
+
+
+
+
+## Visualisation <a name="Visualisation"></a>
+
+A link to my Tableau Visualisation can be found below:
+https://public.tableau.com/app/profile/samuel.nyarko.osei.tutu/viz/Marketting_16364515869090/Dashboard2?publish=yes
