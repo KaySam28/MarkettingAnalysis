@@ -1,4 +1,4 @@
-# MarkettingAnalysis
+# MarketingAnalysis
 
 ### Table of Contents
 
